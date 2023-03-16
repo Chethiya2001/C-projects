@@ -1,0 +1,30 @@
+c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\visual studio\Forms\Ayubo\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\visual studio\Forms\Ayubo\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\visual studio\Forms\Ayubo\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\visual studio\Forms\Ayubo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+E:\visual studio\Forms\Ayubo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\visual studio\Forms\Ayubo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+E:\visual studio\Forms\Ayubo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\visual studio\Forms\Ayubo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+E:\visual studio\Forms\Ayubo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+E:\visual studio\Forms\Ayubo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\visual studio\Forms\Ayubo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\visual studio\Forms\Ayubo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+E:\visual studio\Forms\Ayubo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+E:\visual studio\Forms\Ayubo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+E:\visual studio\Forms\Ayubo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MDIParent1.resources
+E:\visual studio\Forms\Ayubo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.log.resources
+E:\visual studio\Forms\Ayubo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.register.resources
